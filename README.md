@@ -2,7 +2,6 @@
 "# gitTest first line in new branch"  
 "# gitTest first line in new branch test test"  
   
-  hello
-
+  hi
   
   new change
